@@ -1,0 +1,18 @@
+{
+ "ranksim": {
+  "val_mcshane_rmse_sd": {
+   "ranksim": 0.275889359012961,
+   "ranksimg1": 0.2263422313905519,
+   "ranksimg100": 0.28345147347380345
+  },
+  "selected": "ranksimg1"
+ },
+ "rnc": {
+  "val_mcshane_rmse_sd": {
+   "rnc": 0.29763419676386754,
+   "rnct05": 0.30665765274603723,
+   "rnct1": 0.2500423094228331
+  },
+  "selected": "rnct1"
+ }
+}

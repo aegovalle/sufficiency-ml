@@ -1,0 +1,11 @@
+# Stage-1 pilot corpus (Draft v0.2, Section 9.2). Geometry distributions: suffml/data/geometry.py
+output_dir: data/processed
+n_iid: 2000              # train / val / test
+n_ood_morphology: 300    # slender ellipses (aspect ratio 5-7) and dense cells (n = 30, 36)
+frac_train: 0.70
+frac_val: 0.15
+seed_iid: 20261103
+seed_ood: 20261104
+seed_split: 20261105
+iid_overrides: {}
+ood_overrides: {}

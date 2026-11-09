@@ -1,0 +1,20 @@
+{
+  "n_cells": 8,
+  "shifts_px": [
+    0,
+    32,
+    64,
+    95,
+    "adv_argmax_psi"
+  ],
+  "b_shift_grid_R_sigma_max": 9.51298419599178e-06,
+  "b_shift_R_sigma_median": 0.0006515735737183947,
+  "b_shift_R_sigma_mean": 0.0008230732091994934,
+  "b_shift_R_sigma_max": 0.0018962483832254823,
+  "b_shift_rel_stress_pct_median": 0.06522066615958777,
+  "b_shift_rel_stress_pct_max": 0.18998486911029344,
+  "b_shift_R_path_median": 0.0018384581306218834,
+  "b_shift_R_path_mean": 0.002790583799679146,
+  "b_shift_R_path_max": 0.010101353658760063,
+  "runtime_s": 154.7135682106018
+}

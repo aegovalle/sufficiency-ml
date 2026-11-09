@@ -1,0 +1,53 @@
+{
+ "masks_identical": true,
+ "max_abs_diff_vs_campaign_results": {
+  "W_hom": 0.0,
+  "lnB": 0.0,
+  "f": 0.0,
+  "rhoI": 0.0,
+  "e11_m": 0.0,
+  "e22_m": 0.0,
+  "e12_m": 0.0,
+  "e11_i": 0.0,
+  "Jgap_m": 0.0,
+  "Jgap_i": 0.0,
+  "I": 0.0,
+  "lnVeff": 0.0
+ },
+ "max_abs_diff_hazard_family_vs_stored_fields": {
+  "RH_b2": 1.9400623041399e-07,
+  "RH_b5": 5.666653737357308e-07,
+  "RH_b10": 1.0198534265981607e-06,
+  "RH_b20": 2.0155900717355735e-06,
+  "RH_b40": 4.5792964016300175e-06
+ },
+ "max_abs_diff_A_lig": 0.0,
+ "max_abs_diff_S2": 0.0,
+ "max_abs_diff_J": {
+  "J_0": 0.0,
+  "J_1": 0.0,
+  "J_2": 0.0
+ },
+ "max_abs_diff_J0_vs_Jpsi": 1.4368596534808376e-08,
+ "frozen_sources": {
+  "blind_A_B_O": {
+   "file": "blind/blind_masks.npz",
+   "sha256": "7105C082E4E05C8DE0F5AC9CB6AE4309D77A111FD2EFF6F2132F5239356D4AF2",
+   "n": 120,
+   "n_unique_canonical": 120,
+   "description": "blind validation Sets A/B and O (120 cells, all excluded)"
+  },
+  "tcd_C1_C2": {
+   "file": "tcd_frozen/tcd_masks.npz",
+   "sha256": "BAA93B79B015CEE61CC9A16E34EAE3196AEF58A3186D9D0C4AE697361A7C8D46",
+   "n": 42,
+   "n_unique_canonical": 42,
+   "description": "frozen prospective test of J_1.5ell, Sets C1 and C2 (42 cells)"
+  }
+ },
+ "design_cells_in_frozen_registry": 0,
+ "design_unique_canonical": 216,
+ "runtime_s": 72.9,
+ "max_iters": 63,
+ "max_eq_err": 9.999831659704428e-08
+}

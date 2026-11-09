@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software or benchmark, please cite the article below."
+title: "Sufficiency-aware representation learning for microstructure-to-failure prediction: Certified Lipschitz barriers, cross-fitted McShane regularization, and transfer to phase-field fracture"
+authors:
+  - family-names: "Gómez-Ovalle"
+    given-names: "A.E."
+    affiliation: "University of Burgos, Escuela Politécnica Superior, 09006 Burgos, Spain"
+    email: "aegovalle@ubu.es"
+  - family-names: "Ramírez Ovalle"
+    given-names: "C."
+    affiliation: "Department of Natural Sciences & Mathematics, Pontificia Universidad Javeriana – Cali, Cali, Colombia"
+repository-code: "https://github.com/aegovalle/sufficiency-ml"
+license: MIT
+version: "1.0.0"
+date-released: "2026-11-09"
+keywords:
+  - representation sufficiency
+  - Lipschitz error barrier
+  - McShane-Whitney extension
+  - microstructure homogenization
+  - phase-field fracture
+  - equivariant neural networks
